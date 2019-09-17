@@ -1,1 +1,1 @@
-# Sudoku SolutionValidator
+# Sudoku Solution Validator
